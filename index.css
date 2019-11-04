@@ -1,0 +1,16 @@
+body {
+    background-image: url(/list/images/konser.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center;
+    color: whitesmoke;
+}
+
+
+/* .form-control {
+    width: 250px;
+    height: 25px;
+    align-items: center;
+    justify-content: flex-end;
+} */
